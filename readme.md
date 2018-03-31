@@ -22,11 +22,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Framework Docs
 * [Offical Docs](https://hyperledger-fabric.readthedocs.io/en/release-1.1/) - All about Hyperledger Fabric, mostly the algorithm and theory part.
-* [Node Chaincode SDK](https://fabric-sdk-node.github.io/) - NodeJS based Chaincode development documentation
-* [Node Client SDK](https://fabric-sdk-node.github.io/) - NodeJS Client SDK documentation
-* [Go Chaincode SDK](https://fabric-sdk-node.github.io/) - GoLang Chaincode Documentation 
-* [Go Client SDK](https://godoc.org/github.com/hyperledger/fabric/core/chaincode/shim) - GoLang Client Documentation
-* [Composer Docs](https://hyperledger.github.io/composer/latest/introduction/introduction.html) - Hyperledger Composer Official Documentation
+* [Node Chaincode SDK](https://fabric-sdk-node.github.io/) - NodeJS based Chaincode development documentation.
+* [Node Client SDK](https://fabric-sdk-node.github.io/) - NodeJS Client SDK documentation.
+* [Go Chaincode SDK](https://fabric-sdk-node.github.io/) - GoLang Chaincode Documentation.
+* [Go Client SDK](https://godoc.org/github.com/hyperledger/fabric/core/chaincode/shim) - GoLang Client Documentation.
+* [Composer Docs](https://hyperledger.github.io/composer/latest/introduction/introduction.html) - Hyperledger Composer Official Documentation.
 
 
 ### Articles
@@ -49,10 +49,13 @@ __Engineering__
 
 ### Samples
 * [Fabric Samples](https://github.com/hyperledger/fabric-samples) - Has list of chaincode and fabric network samples to play with. Byfn is pretty good way to start.
-* [Composer Dev Server](https://github.com/hyperledger/composer-tools/tree/master/packages/fabric-dev-servers) - Development Fabric Server to deploy and test composer business network archive
-* [Marbles](https://github.com/IBM-Blockchain/marbles) - A simple asset transfer project based on Hyperledger Fabric
-* [Composer Sample Application](https://github.com/hyperledger/composer-sample-applications) - Sample composer business network applications to get started with
+* [Composer Dev Server](https://github.com/hyperledger/composer-tools/tree/master/packages/fabric-dev-servers) - Development Fabric Server to deploy and test composer business network archive.
+* [Marbles](https://github.com/IBM-Blockchain/marbles) - A simple asset transfer project based on Hyperledger Fabric.
+* [Composer Sample Application](https://github.com/hyperledger/composer-sample-applications) - Sample composer business network applications to get started with.
 * [fabric-dev-servers-multipeer](https://github.com/varun-raj/fabric-dev-servers-multipeer) - Composer dev server to run mutliple peers in multiple physical host machines.
+* [todo-list-fabricV1](https://github.com/IBM/todo-list-fabricV1) - A todo list based on Hyperledger Fabric V1 by IBM.
+* [build-blockchain-insurance-app](https://github.com/IBM/build-blockchain-insurance-app) - Sample insurance application using Hyperledger Fabric by IBM.
+* [BlockchainPublicRegulationFabric-Food](https://github.com/IBM/BlockchainPublicRegulationFabric-Food) - A Public Regulation Fabric example in the Food Industry based on Hyperledger Composer
 
 ## Hyperledger Sawtooth
 [<img src="https://www.hyperledger.org/wp-content/uploads/2018/01/Hyperledger_Sawtooth_Logo_Color.png" align="right" width="250">](https://www.hyperledger.org/projects/sawtooth)
@@ -72,8 +75,8 @@ __Engineering__
 
 ## Other Tools
 
-* [Blockchain Explorer](https://github.com/hyperledger/blockchain-explorer) - Manage the blockchain nodes with help of GUI
-* [Caliper](https://github.com/hyperledger/caliper) - It's a performance benchmark framework for analysing various Hyperledger Projects
+* [Blockchain Explorer](https://github.com/hyperledger/blockchain-explorer) - Manage the blockchain nodes with help of GUI.
+* [Caliper](https://github.com/hyperledger/caliper) - It's a performance benchmark framework for analysing various Hyperledger Projects.
 * [Cello](https://github.com/hyperledger/cello) -  It's a blockchain provision and operation system to make your blockchain network much more efficient.
 
 ## Contributing
